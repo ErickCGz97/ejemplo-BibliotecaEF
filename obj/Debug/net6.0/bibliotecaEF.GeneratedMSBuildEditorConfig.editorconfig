@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = bibliotecaEF
+build_property.RootNamespace = bibliotecaEF
+build_property.ProjectDir = C:\Users\cabre\OneDrive\Escritorio\Platzi\Backend con C# y .Net\7. Fundamentos de Entity Framework\bibliotecaEF\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cabre\OneDrive\Escritorio\Platzi\Backend con C# y .Net\7. Fundamentos de Entity Framework\bibliotecaEF
+build_property._RazorSourceGeneratorDebug = 
